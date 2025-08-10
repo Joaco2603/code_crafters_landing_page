@@ -2,14 +2,6 @@
 
 This is a project from **Cenfotec University** for the **Project 1 course**, simulating a landing page for a company that we formed as part of the course.
 
-## Project Structure
-project/
-├── index.html # Main HTML file
-├── styles/
-│ └── main.css # Main stylesheet
-├── assets/ # Folder for images/icons
-└── README.md # This file
-
 ## Technologies Used  
 - **HTML5**: Semantic page structure.  
 - **CSS3**: Basic styling and responsive design.  
